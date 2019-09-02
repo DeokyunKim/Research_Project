@@ -14,7 +14,12 @@ Christian Ledig, Lucas Theis, Ferenc Huszar, Jose Caballero, Andrew Cunningham, 
 
 ## Translation from Near Infra-Red Image to RGB Image
 
-I am trying to solve image translation from NIR Images to RGB Images 
+I am trying to solve image translation from NIR Images to RGB Images.
+The Key Question is
+
+1. How can deep neural network infer the color information from NIR Images?
+
+2. Following question is "shouldn't the same object be inferred from different colors, depending conditions such as weather and time?"
 
 Patricia L. Suarez, Angel D. Sappa, and Boris X. Vintimilla, [Infrared Image Colorization based on a Triplet DCGAN Architecture](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w3/papers/Suarez_Infrared_Image_Colorization_CVPR_2017_paper.pdf), CVPR 2017 Workshop
 

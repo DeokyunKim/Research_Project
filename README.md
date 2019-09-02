@@ -42,4 +42,4 @@ MIT-Adobe 5K Dataset [Learning Photographic Global Tonal Adjustment with a Datab
 
 Jonathan Long, Evan Shelhamer, Trevor Darrell, [Fully Convolutional Networks for Semantic Segmentation](https://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf), CVPR 2015
 
-[Visual Object Classes Challenge 2012 (PASCAL VOC2012)] (http://host.robots.ox.ac.uk/pascal/VOC/voc2012/index.html)
+[Visual Object Classes Challenge 2012 (PASCAL VOC2012)](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/index.html)

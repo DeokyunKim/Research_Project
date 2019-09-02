@@ -8,6 +8,8 @@ Github: https://github.com/DeokyunKim/Progressive-Face-Super-Resolution
 
 ## Single Image Super-Resolution (SISR)
 
+To learn for Single image super-resolution using deep learning, I read the following typical papers related to SISR below and implemented in code.
+
 Wenzhe Shi, Jose Caballero, Ferenc Huszár, Johannes Totz, Andrew P. Aitken, Rob Bishop, Daniel Rueckert, and Zehan Wang. [Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network](https://arxiv.org/abs/1609.05158), CVPR 2016.
 
 Christian Ledig, Lucas Theis, Ferenc Huszar, Jose Caballero, Andrew Cunningham, Alejandro Acosta, Andrew Aitken, Alykhan Tejani, Johannes Totz, Zehan Wang, and Wenzhe Shi. [Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network](https://arxiv.org/abs/1609.04802), CVPR 2017 Oral presentation.

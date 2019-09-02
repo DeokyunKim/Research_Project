@@ -26,10 +26,12 @@ Patricia L. Suarez, Angel D. Sappa, and Boris X. Vintimilla, [Infrared Image Col
 
 ## One-Shot Image Quality Enhancement
 
+Visual correction of photographs is the domain of well-trained experts. I trained a deep neural network with noisy and well-corrected clean image by referring to the following papers. Because the noisy image is mostly dark, and clean image is mostly bright, I have found that the trained deep neural network makes the bright images much brighter. Thus, I trained the network by using the color-wise normalize method to robust the brightness of images.
+
 Andrey Ignatov , Nikolay Kobyshev, Radu Timofte, Kenneth Vanhoey, Luc Van Gool, [DSLR-Quality Photos on Mobile Devices with Deep Convolutional Networks](http://www.vision.ee.ethz.ch/~timofter/publications/Ignatov-ICCV-2017.pdf), ICCV 2017
 
 Yu-Sheng Chen, Yu-Ching Wang,Man-Hsin Kao, Yung-Yu Chuang, [Deep Photo Enhancer: Unpaired Learning for Image Enhancement from Photographs with GANs](https://www.cmlab.csie.ntu.edu.tw/project/Deep-Photo-Enhancer/CVPR-2018-DPE.pdf), CVPR 2018
 
-MIT-Adobe 5K Dataset[Learning Photographic Global Tonal Adjustment with a Database of Input / Output Image Pairs](https://data.csail.mit.edu/graphics/fivek/)
+MIT-Adobe 5K Dataset [Learning Photographic Global Tonal Adjustment with a Database of Input / Output Image Pairs](https://data.csail.mit.edu/graphics/fivek/)
 
 ## Object Segmentation

@@ -2,6 +2,7 @@
 
 ## Face Super-Resolution
 Deokyun Kim, Minseon Kim, Gihyun Kwon and Dae-Shik Kim, [Progressive Face Super-Resolution via Attention to Facial Landmark](https://arxiv.org/abs/1908.08239), BMVC 2019
+
 Github: https://github.com/DeokyunKim/Progressive-Face-Super-Resolution
 
 ## Single Image Super-Resolution (SISR)

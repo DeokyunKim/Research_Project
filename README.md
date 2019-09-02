@@ -1,7 +1,7 @@
 # Research_Project
-The below codes are implemented by Pytorch.
+The below codes are implemented by Pytorch for personal study.
 
-## Face Super-Resolution
+## Face Super-Resolution (Official)
 Deokyun Kim, Minseon Kim, Gihyun Kwon and Dae-Shik Kim, [Progressive Face Super-Resolution via Attention to Facial Landmark](https://arxiv.org/abs/1908.08239), BMVC 2019
 
 Github: https://github.com/DeokyunKim/Progressive-Face-Super-Resolution
@@ -37,3 +37,9 @@ Yu-Sheng Chen, Yu-Ching Wang,Man-Hsin Kao, Yung-Yu Chuang, [Deep Photo Enhancer:
 MIT-Adobe 5K Dataset [Learning Photographic Global Tonal Adjustment with a Database of Input / Output Image Pairs](https://data.csail.mit.edu/graphics/fivek/)
 
 ## Object Segmentation
+
+
+
+Jonathan Long, Evan Shelhamer, Trevor Darrell, [Fully Convolutional Networks for Semantic Segmentation](https://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf), CVPR 2015
+
+[Visual Object Classes Challenge 2012 (PASCAL VOC2012)] (http://host.robots.ox.ac.uk/pascal/VOC/voc2012/index.html)

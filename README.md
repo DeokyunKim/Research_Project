@@ -1,4 +1,5 @@
 # Research_Project
+The below codes are implemented by Pytorch.
 
 ## Face Super-Resolution
 Deokyun Kim, Minseon Kim, Gihyun Kwon and Dae-Shik Kim, [Progressive Face Super-Resolution via Attention to Facial Landmark](https://arxiv.org/abs/1908.08239), BMVC 2019
@@ -14,5 +15,11 @@ Christian Ledig, Lucas Theis, Ferenc Huszar, Jose Caballero, Andrew Cunningham, 
 ## Translation Near Infra-Red Image to RGB Image
 
 ## One-Shot Image Quality Enhancement
+
+[DSLR-Quality Photos on Mobile Devices with Deep Convolutional Networks](http://www.vision.ee.ethz.ch/~timofter/publications/Ignatov-ICCV-2017.pdf)
+
+[Deep Photo Enhancer: Unpaired Learning for Image Enhancement from Photographs with GANs](https://www.cmlab.csie.ntu.edu.tw/project/Deep-Photo-Enhancer/CVPR-2018-DPE.pdf)
+
+[Learning Photographic Global Tonal Adjustment with a Database of Input / Output Image Pairs](https://data.csail.mit.edu/graphics/fivek/)
 
 ## Object Segmentation
